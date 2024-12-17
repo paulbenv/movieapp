@@ -25,6 +25,7 @@
 
     <EditText
         android:layout_width="match_parent"
+        android:drawableLeft="@drawable/baseline_account_circle_24"
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
         android:background="@android:drawable/edit_text"
@@ -41,6 +42,7 @@
 
     <EditText
         android:layout_width="match_parent"
+        android:drawableLeft="@drawable/baseline_lock_24"
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
         android:background="@android:drawable/edit_text"
